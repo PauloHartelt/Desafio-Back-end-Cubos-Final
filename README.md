@@ -1,6 +1,4 @@
-# Project Name
-
-Desafio-Back-end-Cubos-Final
+# Desafio-Back-end-Cubos-Final
 
 ## Description
 
