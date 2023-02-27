@@ -1,7 +1,3 @@
-# Desafio-Back-end-Cubos-Final
-
-A challenge made by Cubos Academy to the Back End course
-
 # Project Name
 
 Desafio-Back-end-Cubos-Final
