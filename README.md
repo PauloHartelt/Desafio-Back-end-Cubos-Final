@@ -57,7 +57,7 @@ Here are the endpoints available in the API:
 
 - `PUT /usuario`: Updates information for the user on the data provided in the request body.
 
-To use the API, send HTTP requests to these endpoints using an HTTP client such as [Postman](https://www.postman.com/), [Insomnia]([https://www.postman.com/](https://insomnia.rest/)) or [cURL](https://curl.se/).
+To use the API, send HTTP requests to these endpoints using an HTTP client such as [Postman](https://www.postman.com/), [Insomnia](https://insomnia.rest/) or [cURL](https://curl.se/).
 
 
 ## Contributing
