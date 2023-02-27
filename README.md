@@ -70,7 +70,7 @@ We welcome contributions to this project! To contribute, follow these steps:
 4. Push to the branch: `git push origin my-feature`
 5. Open a Pull Request
 
-# Contributors
+## Contributors
 
 | [<img src="https://avatars.githubusercontent.com/u/85734491?v=4" width=115><br><sub>Adelvane Ferreira</sub>](https://github.com/AdelvaneFerreira) | [<img src="https://avatars.githubusercontent.com/u/95707984?v=4" width=115><br><sub>Paulo Hartelt</sub>](https://github.com/PauloHartelt) | [<img src="https://avatars.githubusercontent.com/u/76759510?v=4" width=115><br><sub>Janine Henrique</sub>](https://github.com/janinehenrique) |
 | :---------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
